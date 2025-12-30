@@ -1,0 +1,17 @@
+# Web Framework
+Flask==3.0.0
+gunicorn==21.2.0
+requests==2.31.0
+
+# Azure SDK - Identity & Authentication
+azure-identity==1.15.0
+
+# Azure SDK - Management
+azure-mgmt-resource==23.0.1
+azure-mgmt-network==25.2.0
+
+# Azure SDK - Storage
+azure-storage-blob==12.19.0
+
+# Utilities
+python-dateutil==2.8.2
